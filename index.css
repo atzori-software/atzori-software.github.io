@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+.Header {
+  height: 150px;
+  background: rgb(220,220,220);
+  background: linear-gradient(180deg, rgba(220,220,220,1) 0%, rgba(255,255,255,1) 100%);
+  text-align: center;
+}
+
+.Content {
+  text-align: center;
+  min-height: 300px;
+  font-size: 24px;
+}
+
+.Footer {
+  text-align: left;
+  font-size: 14px;
+  padding-left: 30px;
+}
+
+.CompanyName {
+  padding-top: 40px;
+  font-size: 48px;
+}
