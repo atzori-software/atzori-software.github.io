@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+hr {
+  width: 90%;
+}
+
 .Header {
   height: 150px;
   background: rgb(220,220,220);
@@ -18,7 +22,8 @@ body {
 .Footer {
   text-align: left;
   font-size: 14px;
-  padding-left: 30px;
+  padding-top: 20px;
+  padding-left: 5%;
 }
 
 .CompanyName {
