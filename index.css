@@ -16,17 +16,36 @@ hr {
 .Content {
   text-align: center;
   min-height: 300px;
-  font-size: 24px;
+  font-size: 22px;
+  line-height: 1.5em;
+  width: 60%;
+  padding-left: 20%;
+  padding-bottom: 2em;
+  padding-top: 0.5em;
 }
 
 .Footer {
   text-align: left;
   font-size: 14px;
-  padding-top: 20px;
+  padding-top: 2em;
+  padding-bottom: 3em;
   padding-left: 6%;
 }
 
 .CompanyName {
   padding-top: 40px;
   font-size: 48px;
+}
+
+.Section {
+  padding-top: 1em;
+}
+
+.Product {
+  text-align: left;
+}
+
+.Heading {
+  font-size: larger;
+  font-weight: bold;
 }
